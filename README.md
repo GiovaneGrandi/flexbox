@@ -1,2 +1,2 @@
 # flexbox
- Um site feito usando meus aprendizados em meu curso de Flexbox
+ Um site de cursos feito usando meus aprendizados em meu curso de Flexbox
